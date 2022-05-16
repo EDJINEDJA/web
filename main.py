@@ -10,10 +10,6 @@ def batch(list_files,batch):
         
     return batch_size 
 
-        
-    
-    
-    
     
 
 def main():
